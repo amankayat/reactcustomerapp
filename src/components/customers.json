@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "firstname":"Prajawal",
+        "lastname":"P",
+        "email":"prajwal@gmail.com"
+    },
+    {
+        "id":2,
+        "firstname":"Jasal",
+        "lastname":"Singh",
+        "email":"jasal@gmail.com"
+    },
+    {
+        "id":3,
+        "firstname":"Aman",
+        "lastname":"Kumar",
+        "email":"aman@gmail.com"
+    },
+    {
+        "id":4,
+        "firstname":"Krishna",
+        "lastname":"K",
+        "email":"krishna@gmail.com"
+    }
+    ]
